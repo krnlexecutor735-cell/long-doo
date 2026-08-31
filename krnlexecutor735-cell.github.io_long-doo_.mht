@@ -1,0 +1,102 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://krnlexecutor735-cell.github.io/long-doo/
+Subject: 
+Date: Mon, 31 Aug 2026 02:48:56 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--COvqZ1xbL0iNvsVmaT0ZsuWL0UfKqv0ECP47O1mhso----"
+
+
+------MultipartBoundary--COvqZ1xbL0iNvsVmaT0ZsuWL0UfKqv0ECP47O1mhso----
+Content-Type: text/html
+Content-ID: <frame-475ABB41D64DC60E46EA883952A51D7C@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://krnlexecutor735-cell.github.io/long-doo/
+
+<!DOCTYPE html><html lang="th"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-28256d23-5da5-4ead-916a-d273ed61c7de@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+</head>
+<body>
+
+<div id="loader-overlay" style="opacity: 0; display: none;">
+    <l-chaotic-orbit size="50" speed="1.5" color="black"><template shadowmode="open">
+      <div class="container"></div>
+      
+    </template></l-chaotic-orbit>
+</div>
+
+<div id="fade">
+    <l-chaotic-orbit size="40" speed="1.5" color="black"><template shadowmode="open">
+      <div class="container"></div>
+      
+    </template></l-chaotic-orbit>
+</div>
+
+<div class="container" id="card">
+            <div class="q-text">x + 5 = 12</div>
+            <div class="options" id="opts">
+                <div class="worm" id="worm" style="top: 23px;"></div>
+                
+                    <input type="radio" name="q" id="o0" value="0">
+                    <label for="o0" class="label">6</label>
+                
+                    <input type="radio" name="q" id="o1" value="1">
+                    <label for="o1" class="label">7</label>
+                
+                    <input type="radio" name="q" id="o2" value="2">
+                    <label for="o2" class="label">8</label>
+                
+            </div>
+        </div>
+
+
+
+
+</body></html>
+------MultipartBoundary--COvqZ1xbL0iNvsVmaT0ZsuWL0UfKqv0ECP47O1mhso----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-28256d23-5da5-4ead-916a-d273ed61c7de@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+#loader-overlay { position: fixed; top: 0px; left: 0px; width: 100vw; height: 100vh; background: rgb(233, 238, 242); display: flex; align-items: center; justify-content: center; z-index: 99999; transition: opacity 0.5s; }
+
+#fade { position: fixed; top: 0px; left: 0px; width: 100vw; height: 100vh; background: rgb(233, 238, 242); opacity: 0; pointer-events: none; z-index: 9999; display: flex; align-items: center; justify-content: center; transition: opacity 0.35s; }
+
+#fade.in { opacity: 1; pointer-events: all; }
+
+body { margin: 0px; background: rgb(233, 238, 242); display: flex; align-items: center; justify-content: center; min-height: 100vh; font-family: sans-serif; }
+
+.container { position: relative; background: white; padding: 40px 50px; border-radius: 16px; box-shadow: rgba(0, 0, 0, 0.05) 0px 10px 25px; width: 420px; max-width: 90vw; transition: opacity 0.3s; }
+
+.q-text { font-size: 22px; font-weight: 700; color: rgb(34, 34, 34); margin-bottom: 32px; }
+
+.options { position: relative; display: flex; flex-direction: column; }
+
+input[type="radio"] { display: none; }
+
+.label { display: flex; align-items: center; gap: 16px; font-size: 24px; font-weight: bold; color: rgb(68, 68, 68); cursor: pointer; position: relative; z-index: 2; user-select: none; width: 100%; height: 60px; transition: color 0.25s; }
+
+.label::before { content: ""; width: 28px; height: 28px; border: 3px solid rgb(204, 204, 204); border-radius: 50%; flex-shrink: 0; box-sizing: border-box; transition: border-color 0.25s; }
+
+input:checked + .label::before { border-color: rgb(31, 111, 235); }
+
+input:checked + .label { color: rgb(31, 111, 235); }
+
+.worm { position: absolute; left: 7px; width: 14px; height: 14px; background: rgb(31, 111, 235); border-radius: 20px; transition: top 0.25s cubic-bezier(0.25, 0.1, 0.25, 1), height 0.25s cubic-bezier(0.25, 0.1, 0.25, 1); z-index: 1; pointer-events: none; }
+
+.result-wrap { display: flex; align-items: center; justify-content: center; padding: 10px 0px; }
+
+.score-ring { width: 120px; height: 120px; border: 5px solid rgb(31, 111, 235); border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+
+.score-num { font-size: 38px; font-weight: 700; color: rgb(31, 111, 235); line-height: 1; }
+
+.score-of { font-size: 15px; color: rgb(187, 187, 187); }
+------MultipartBoundary--COvqZ1xbL0iNvsVmaT0ZsuWL0UfKqv0ECP47O1mhso------
